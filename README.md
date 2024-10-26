@@ -1,10 +1,10 @@
 # Description
-Welcome! This is a simple program that automates the process of sending linked in connection requests. I recomend running the exe version, since the other version is techicly a pytest test.
+Welcome! This is a simple program that automates the process of sending linked in connection requests. I recommend running the exe version, since the other version is technically a pytest test.
 
-# The Exe version(Non Test Version)
-This is the prefered verion, it runs as an independant process, and also asks you about the inputs.
+# The Exe version (Non-Test Version)
+This is the preferred version, it runs as an independent process and asks you about the inputs.
 
-## Instalation
+## Installation
 Clone the repository anywhere on your computer, and then run these commands inside the repository root folder.
 ```
 pip install -r requirements.txt
