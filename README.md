@@ -1,7 +1,7 @@
 # Description
 Welcome! This is a simple program that automates the process of sending linked in connection requests.
-## Executeing the program
-Since the releases contain the standalone executables, I would reccomend using them, instead of installing the dependancies.
+## Executing the program
+Since the releases contain the standalone executables, I would recommend using them instead of installing the dependencies.
 ### Windows 10+
 1. Download the executable from the [releases page](https://github.com/GregSCooper2514/web/releases).
 2. You can either:
@@ -21,5 +21,8 @@ Since the releases contain the standalone executables, I would reccomend using t
 2. Open Terminal and navigate to the directory containing the executable.
 3. Run the following command:
    ```sh
-   ./mac
+   . /mac
    ```
+
+## Problems and suggestions
+If you have any issues and suggestions just open an issue, I will be happy to assist.
