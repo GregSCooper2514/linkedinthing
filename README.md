@@ -15,13 +15,14 @@ Since the releases contain the standalone executables, I would recommend using t
 2. Open Terminal and navigate to the directory containing the executable.
 3. Run the following command:
    ```sh
+   sudo chmod -f +x linux.elf
    ./linux.elf
 ### ARM-based Macs
 1. Download the executable from the [releases page](https://github.com/GregSCooper2514/web/releases).
 2. Open Terminal and navigate to the directory containing the executable.
 3. Run the following command:
    ```sh
-   sudo chmod -f +x [fileName]
+   sudo chmod -f +x mac
    ./mac
    ```
 
